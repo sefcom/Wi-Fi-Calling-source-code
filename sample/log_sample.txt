@@ -1,0 +1,47 @@
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] SKEYSEED => 20 bytes @ 0x7f34fc001540
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: B8 12 F1 2E FD 03 A6 96 B0 F6 C7 92 61 97 97 CB  ............a...
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: 37 BF 83 E8                                      7...
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_d secret => 20 bytes @ 0x7f34fc001540
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: CA F6 D6 CC 3F 65 08 F7 56 21 A9 5A BD 24 72 AB  ....?e..V!.Z.$r.
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: A2 58 63 02                                      .Xc.
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_ai secret => 20 bytes @ 0x7f34fc001c70
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: 87 17 C3 D3 2F DE DA 77 14 B1 7A 0F A2 4B B9 46  ..../..w..z..K.F
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: BE 04 AD BF                                      ....
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_ar secret => 20 bytes @ 0x7f34fc001c70
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: B7 D7 B9 00 AB B7 02 CD 9B 38 AC 1F 21 A3 9E CD  .........8..!...
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: 2E 43 6C 09                                      .Cl.
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_ei secret => 32 bytes @ 0x7f34fc001ab0
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: B4 09 E1 25 72 8A DA 01 BF D6 6C 72 69 B3 1E CB  ...%r.....lri...
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: 4D 83 A4 64 22 6F 1F 7C BD 05 DD 2A 6A 99 0B AE  M..d"o.|...*j...
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_er secret => 32 bytes @ 0x7f34fc001ab0
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: AC B2 70 61 AC 97 B8 1B 1A 14 D4 C3 DF 97 96 05  ..pa............
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: 6F 8F 99 0C EC 58 9F AC 33 96 12 F7 56 D5 A4 39  o....X..3...V..9
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_pi secret => 20 bytes @ 0x7f34fc001440
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: 47 00 82 0A A1 C6 29 76 F9 CC 13 05 94 A2 B7 2E  G.....)v........
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: BD 87 E3 6C                                      ...l
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE] Sk_pr secret => 20 bytes @ 0x7f34fc001ab0
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]    0: 33 DA 29 BB 66 E4 18 76 76 89 AC 63 5F 3D A8 B4  3.).f..vv..c_=..
+
+Feb  6 18:13:36 ubuntu charon-custom: 03[IKE]   16: 5D 5A 3B EE      
