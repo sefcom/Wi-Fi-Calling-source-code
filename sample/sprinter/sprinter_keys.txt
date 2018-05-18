@@ -1,0 +1,27 @@
+ SKEYSEED => 20 bytes @ 0x7f58e8004540
+
+39 15 CE 06 67 E5 D4 44 EC 38 F7 39 09 6A 8A C5  
+74 FA DD 66                                     
+
+Sk_d secret => 20 bytes
+CD 66 6D 04 C2 38 E4 64 AE E6 FD 63 00 00 FD 29  
+9A 5B 5C D1                                      
+
+Sk_ai secret => 20 bytes @ 0x7f58e8003dd0
+DB1E91454A8DFDD8E789789FECFB9A65C51B0763                                      ...c
+
+Sk_ar secret => 20 bytes @ 0x7f58e8003dd0
+A93D33ADF3160335970220DEC52CE8710712CC7E                                      ...~
+
+Sk_ei secret => 16 bytes @ 0x7f58e8003dd0
+BF23AE7846AB2159F4481098A98AEF73
+
+Sk_er secret => 16 bytes @ 0x7f58e8003dd0
+644AFD78FE3BB9B6FF2706BBA9570FA3
+
+
+ISPI 8f774f7810af09e4
+RSPI caeb4e55a0985ab0
+
+
+
