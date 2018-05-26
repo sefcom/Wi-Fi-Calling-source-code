@@ -1,0 +1,16 @@
+airmon-ng start wlan0 
+ifconfig wlan0mon 10.0.0.1/24
+iptables -t nat -F
+iptables -L
+iptables -F
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+iptables -A FORWARD -i wlan0mon -o eth0 -j ACCEPT
+iptables -A FORWARD -i eth0 -s 208.54.0.0/16 -j DROP
+iptables -A FORWARD -i eth0 -s 68.31.0.0/16 -j DROP
+iptables -A FORWARD -i eth0 -s 141.207.0.0/16 -j DROP
+iptables -A FORWARD -i eth0 -s 129.192.0.0/16 -j DROP 
+echo '1'>/proc/sys/net/ipv4/ip_forward
+/etc/init.d/dnsmasq stop
+/etc/init.d/dnsmasq start
+cd /etc/hostapd/
+hostapd hostapd.conf 
