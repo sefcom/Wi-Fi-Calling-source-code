@@ -1,6 +1,7 @@
 #!/usr/local/bin/python
 from scapy.all import *
-ipsec_server = "192.168.84.128"
+ipsec_server = "192.168.56.102"
+#ipsec_server = "192.168.84.128"
 
 ##### Phase 1 #####
 

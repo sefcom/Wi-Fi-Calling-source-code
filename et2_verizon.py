@@ -1,13 +1,13 @@
 #!/usr/local/bin/python
 from scapy.all import *
-ipsec_server = "192.168.84.128"
+ipsec_server = "192.168.56.102"
 ue_addr = "10.0.0.36"
 
 ##### Phase 2 #####
 
 # capturing response pk from swan server to UE
 #packet2=sniff(iface="vmnet8", filter="udp and port 500", count=2, prn=lambda x: x.summary)
-packet2=sniff(iface="vmnet8", filter="udp and port 500", count=2)
+packet2=sniff(iface="vboxnet0", filter="udp and port 500", count=2)
 
 # storing 2nd response pk from swan ipsec server
 data3 = ""
