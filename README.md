@@ -29,7 +29,7 @@ Please proceed with the following steps to perform the IMSI privacy attack descr
 ```
 @inproceedings{winotcalling2018acsac,
   title        = {{Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling}},
-  author       = {Jaejong Baek, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn*},
+  author       = {Jaejong Baek, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn},
   booktitle    = {In Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC)},
   month        = Dec,
   year         = 2018,
