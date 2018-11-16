@@ -44,7 +44,7 @@ Please proceed with the following steps to perform the IMSI privacy attack descr
 
 ## Contact (Paper request)
 
-- <a href="https://sites.google.com/view/jjbaek/home" >Jaejong Baek</a>  <jbaek7@asu.edu> 
+- <a href="https://sites.google.com/view/jjbaek/home" target="_blank">Jaejong Baek</a>  <jbaek7@asu.edu> 
 - Sukwha Kyung <skyung1@asu.edu>
 - Haehyun Cho <haehyun@asu.edu>
 
