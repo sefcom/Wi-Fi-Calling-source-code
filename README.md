@@ -1,7 +1,7 @@
 # Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling
 
 ## Overview
-In this repository you will find the experimental data along with source code for our 'Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling' paper. 
+In this repository you will find the experimental data along with source code for our 'Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling' paper accepted by 2018 ACSAC (https://www.acsac.org/2018/). 
 
 We analyzed the security of Wi-Fi Calling specifications and discover several vulnerabilities that allow an adversary to track the location of users and perform DoS attacks.
 By setting up a rogue access point in live testbed environment, we observed that user devices can leak the International Mobile Subscriber Identity (IMSI), despite it being encrypted.
@@ -42,9 +42,9 @@ Please proceed with the following steps to perform the IMSI privacy attack descr
 - Under GPLv2.
 - Copyrights are specificed under LICENSE.
 
-## Contact
+## Contact (Paper request)
 
-- Jaejong Baek <jbaek7@asu.edu>
+- <a href="https://sites.google.com/view/jjbaek/home" >Jaejong Baek</a>  <jbaek7@asu.edu> 
 - Sukwha Kyung <skyung1@asu.edu>
 - Haehyun Cho <haehyun@asu.edu>
 
