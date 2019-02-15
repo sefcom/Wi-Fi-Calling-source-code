@@ -38,7 +38,7 @@ Please proceed with the following steps to perform the IMSI privacy attack descr
 ```
 
 ## Demo video
-- Visit https://youtu.be/eMSA29MUcOU
+Visit https://youtu.be/eMSA29MUcOU
 
 ## License
 
