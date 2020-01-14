@@ -1,0 +1,196 @@
+Albania - Vodafone   - epdg.epc.mnc002.mcc276.pub.3gppnetwork.org - 79.171.50.212
+Argentina Republic - Claro/ CTI/AMX  - epdg.epc.mnc310.mcc722.pub.3gppnetwork.org - 131.100.108.121
+Argentina Republic - Telecom Personal S.A.  - epdg.epc.mnc341.mcc722.pub.3gppnetwork.org - 181.10.205.25
+Armenia - Orange  - epdg.epc.mnc010.mcc283.pub.3gppnetwork.org - 185.59.68.5
+Armenia - Vivacell  - epdg.epc.mnc005.mcc283.pub.3gppnetwork.org - 217.76.2.170
+Australia - AAPT Ltd.   - epdg.epc.mnc014.mcc505.pub.3gppnetwork.org - 210.10.57.129
+Australia - H3G Ltd.  - epdg.epc.mnc006.mcc505.pub.3gppnetwork.org - 101.119.31.66
+Australia - Singtel Optus  - epdg.epc.mnc002.mcc505.pub.3gppnetwork.org - 210.49.47.194
+Australia - Telstra Corp. Ltd.  - epdg.epc.mnc071.mcc505.pub.3gppnetwork.org - 144.135.83.107
+Australia - Telstra Corp. Ltd.  - epdg.epc.mnc072.mcc505.pub.3gppnetwork.org - 149.135.136.48
+Australia - Telstra Corp. Ltd.  - epdg.epc.mnc001.mcc505.pub.3gppnetwork.org - 149.135.226.9
+Australia - Vodafone  - epdg.epc.mnc003.mcc505.pub.3gppnetwork.org - 101.119.216.1
+Austria - A1 MobilKom  - epdg.epc.mnc001.mcc232.pub.3gppnetwork.org - 188.21.252.120
+Austria - H3G  - epdg.epc.mnc010.mcc232.pub.3gppnetwork.org - 213.94.78.30
+Austria - H3G  - epdg.epc.mnc014.mcc232.pub.3gppnetwork.org - 194.24.130.74
+Austria - 3/Orange/One Connect  - epdg.epc.mnc005.mcc232.pub.3gppnetwork.org - 213.94.78.28
+Austria - T-Mobile/Telering  - epdg.epc.mnc003.mcc232.pub.3gppnetwork.org - 213.162.90.41
+Austria - T-Mobile/Telering  - epdg.epc.mnc007.mcc232.pub.3gppnetwork.org - 213.162.90.41
+Bahrain - Batelco  - epdg.epc.mnc001.mcc426.pub.3gppnetwork.org - 88.201.70.1
+Belarus - Mobile Digital Communications  - epdg.epc.mnc001.mcc257.pub.3gppnetwork.org - 128.140.255.91
+Belgium - Belgacom/Proximus  - epdg.epc.mnc001.mcc206.pub.3gppnetwork.org - 81.169.63.80
+Belgium - Mobistar/Orange  - epdg.epc.mnc010.mcc206.pub.3gppnetwork.org - 212.224.253.170
+Brazil - Claro/Albra/America Movil  - epdg.epc.mnc005.mcc724.pub.3gppnetwork.org - 200.169.116.53
+Brazil - PORTO SEGURO TELECOMUNICACOES  - epdg.epc.mnc054.mcc724.pub.3gppnetwork.org - 138.0.220.25
+Brazil - Vivo S.A./Telemig   - epdg.epc.mnc023.mcc724.pub.3gppnetwork.org - 200.220.254.168
+Brazil - Vivo S.A./Telemig   - epdg.epc.mnc011.mcc724.pub.3gppnetwork.org - 200.220.254.168
+Brazil - Vivo S.A./Telemig   - epdg.epc.mnc010.mcc724.pub.3gppnetwork.org - 200.142.134.80
+Brazil - Vivo S.A./Telemig   - epdg.epc.mnc006.mcc724.pub.3gppnetwork.org - 200.142.134.80
+Bulgaria - BTC Mobile EOOD (vivatel)  - epdg.epc.mnc003.mcc284.pub.3gppnetwork.org - 82.137.72.94
+Cambodia - Smart Mobile  - epdg.epc.mnc006.mcc456.pub.3gppnetwork.org - 27.109.115.234
+Canada - Bell Mobility  - epdg.epc.mnc610.mcc302.pub.3gppnetwork.org - 174.90.221.3
+Canada - Latitude Wireless  - epdg.epc.mnc640.mcc302.pub.3gppnetwork.org - 209.226.31.198
+Canada - FIDO (Rogers AT&T/ Microcell)  - epdg.epc.mnc370.mcc302.pub.3gppnetwork.org - 209.148.157.48
+Canada - Rogers AT&T Wireless  - epdg.epc.mnc720.mcc302.pub.3gppnetwork.org - 209.148.157.48
+Canada - Telus Mobility  - epdg.epc.mnc220.mcc302.pub.3gppnetwork.org - 207.34.240.206
+Canada - Videotron  - epdg.epc.mnc500.mcc302.pub.3gppnetwork.org - 184.162.85.128
+Canada - WIND  - epdg.epc.mnc490.mcc302.pub.3gppnetwork.org - 74.115.199.33
+Chile - Claro  - epdg.epc.mnc003.mcc730.pub.3gppnetwork.org - 190.208.28.209
+Chile - Entel Telefonia Mov  - epdg.epc.mnc001.mcc730.pub.3gppnetwork.org - 186.10.61.18
+Chile - Nextel SA  - epdg.epc.mnc009.mcc730.pub.3gppnetwork.org - 168.196.202.1
+Chile - TELEFONICA  - epdg.epc.mnc002.mcc730.pub.3gppnetwork.org - 191.125.99.97
+Colombia - Movistar  - epdg.epc.mnc123.mcc732.pub.3gppnetwork.org - 190.13.98.250
+Croatia - T-Mobile/Cronet  - epdg.epc.mnc001.mcc219.pub.3gppnetwork.org - 195.29.253.232
+Czech Rep. - O2  - epdg.epc.mnc002.mcc230.pub.3gppnetwork.org - 160.218.3.2
+Czech Rep. - T-Mobile / RadioMobil  - epdg.epc.mnc001.mcc230.pub.3gppnetwork.org - 62.141.11.101
+Czech Rep. - Vodafone  - epdg.epc.mnc003.mcc230.pub.3gppnetwork.org - 31.30.69.153
+Denmark - H3G  - epdg.epc.mnc006.mcc238.pub.3gppnetwork.org - 95.209.200.94
+Denmark - TDC Denmark  - epdg.epc.mnc010.mcc238.pub.3gppnetwork.org - 195.41.220.252
+Denmark - TDC Denmark  - epdg.epc.mnc001.mcc238.pub.3gppnetwork.org - 195.41.220.240
+Denmark - Telenor/Sonofon  - epdg.epc.mnc002.mcc238.pub.3gppnetwork.org - 77.214.4.170
+Denmark - Telia  - epdg.epc.mnc020.mcc238.pub.3gppnetwork.org - 62.44.172.134
+Dominican Republic - Claro  - epdg.epc.mnc002.mcc370.pub.3gppnetwork.org - 190.166.58.133
+Dominican Republic - Orange  - epdg.epc.mnc001.mcc370.pub.3gppnetwork.org - 190.124.94.1
+Ecuador - Claro/Porta - epdg.epc.mnc001.mcc740.pub.3gppnetwork.org - 200.25.222.130
+Egypt - ETISALAT  - epdg.epc.mnc003.mcc602.pub.3gppnetwork.org - 105.203.255.75
+Estonia - EMT GSM  - epdg.epc.mnc001.mcc248.pub.3gppnetwork.org - 195.50.247.182
+Estonia - Radiolinja Eesti  - epdg.epc.mnc002.mcc248.pub.3gppnetwork.org - 194.204.13.254
+Faroe Islands - Faroese Telecom  - epdg.epc.mnc001.mcc288.pub.3gppnetwork.org - 81.18.225.12
+Finland - DNA/Finnet  - epdg.epc.mnc012.mcc244.pub.3gppnetwork.org - 213.216.202.72
+Finland - DNA/Finnet  - epdg.epc.mnc013.mcc244.pub.3gppnetwork.org - 213.216.202.75
+Finland - Elisa/Saunalahti  - epdg.epc.mnc021.mcc244.pub.3gppnetwork.org - 213.161.47.201
+Finland - Elisa/Saunalahti  - epdg.epc.mnc005.mcc244.pub.3gppnetwork.org - 213.161.47.18
+Finland - TeliaSonera  - epdg.epc.mnc091.mcc244.pub.3gppnetwork.org - 194.142.89.198
+France - Bouygues Telecom  - epdg.epc.mnc020.mcc208.pub.3gppnetwork.org - 62.201.149.81
+France - NRJ  - epdg.epc.mnc026.mcc208.pub.3gppnetwork.org - 193.56.244.208
+France - Orange  - epdg.epc.mnc001.mcc208.pub.3gppnetwork.org - 80.12.36.249
+France - S.F.R.  - epdg.epc.mnc010.mcc208.pub.3gppnetwork.org - 92.90.28.1
+Germany - E-Plus  - epdg.epc.mnc003.mcc262.pub.3gppnetwork.org - 89.15.232.32
+Germany - O2  - epdg.epc.mnc007.mcc262.pub.3gppnetwork.org - 89.15.232.32
+Germany - T-mobile/Telekom  - epdg.epc.mnc001.mcc262.pub.3gppnetwork.org - 109.237.187.130
+Germany - Vodafone D2  - epdg.epc.mnc009.mcc262.pub.3gppnetwork.org - 139.7.2.205
+Ghana - MTN  - epdg.epc.mnc001.mcc620.pub.3gppnetwork.org - 41.189.161.185
+Greece - Cosmote  - epdg.epc.mnc001.mcc202.pub.3gppnetwork.org - 94.143.176.220
+Greece - Vodafone  - epdg.epc.mnc005.mcc202.pub.3gppnetwork.org - 62.74.30.36
+Hongkong, China - China Mobile/Peoples  - epdg.epc.mnc012.mcc454.pub.3gppnetwork.org - 182.239.118.1
+Hongkong, China - CSL Ltd.  - epdg.epc.mnc000.mcc454.pub.3gppnetwork.org - 120.88.254.1
+Hongkong, China - CSL/New World PCS Ltd.  - epdg.epc.mnc010.mcc454.pub.3gppnetwork.org - 120.88.224.2
+Hongkong, China - HKT/PCCW  - epdg.epc.mnc019.mcc454.pub.3gppnetwork.org - 120.88.224.1
+Hongkong, China - HKT/PCCW  - epdg.epc.mnc016.mcc454.pub.3gppnetwork.org - 120.88.254.2
+Hongkong, China - Vodafone/SmarTone  - epdg.epc.mnc006.mcc454.pub.3gppnetwork.org - 180.219.134.17
+Hungary - T-mobile/Magyar  - epdg.epc.mnc030.mcc216.pub.3gppnetwork.org - 212.51.127.131
+India - AirTel  - epdg.epc.mnc053.mcc405.pub.3gppnetwork.org - 125.17.2.189
+India - Bharti Airtel Limited (Delhi)  - epdg.epc.mnc010.mcc404.pub.3gppnetwork.org - 223.224.79.240
+India - Bharti Airtel Limited (Karnataka) (India)  - epdg.epc.mnc045.mcc404.pub.3gppnetwork.org - 106.200.64.1
+India - Hexacom India  - epdg.epc.mnc070.mcc404.pub.3gppnetwork.org - 223.224.150.16
+India - Hexcom India  - epdg.epc.mnc016.mcc404.pub.3gppnetwork.org - 223.224.79.240
+Indonesia - PT Smartfren Telecom Tbk  - epdg.epc.mnc009.mcc510.pub.3gppnetwork.org - 115.178.173.5
+Indonesia - PT Smartfren Telecom Tbk  - epdg.epc.mnc028.mcc510.pub.3gppnetwork.org - 115.178.173.5
+Ireland - Meteor Mobile Ltd.  - epdg.epc.mnc003.mcc272.pub.3gppnetwork.org - 86.43.56.36
+Ireland - Vodafone Eircell  - epdg.epc.mnc001.mcc272.pub.3gppnetwork.org - 89.19.64.93
+Israel - Cellcom ltd.  - epdg.epc.mnc002.mcc425.pub.3gppnetwork.org - 176.12.160.1
+Israel - Hot Mobile/Mirs  - epdg.epc.mnc007.mcc425.pub.3gppnetwork.org - 80.246.131.244
+Israel - Orange/Partner Co. Ltd.  - epdg.epc.mnc001.mcc425.pub.3gppnetwork.org - 82.102.137.8
+Israel - Pelephone  - epdg.epc.mnc003.mcc425.pub.3gppnetwork.org - 91.135.104.90
+Japan - KDDI Corporation  - epdg.epc.mnc050.mcc440.pub.3gppnetwork.org - 27.86.78.32
+Japan - KDDI Corporation  - epdg.epc.mnc051.mcc440.pub.3gppnetwork.org - 27.86.78.32
+Jordan - ZAIN /J.M.T.S  - epdg.epc.mnc001.mcc416.pub.3gppnetwork.org - 94.142.37.56
+Kuwait - Viva  - epdg.epc.mnc004.mcc419.pub.3gppnetwork.org - 94.129.128.170
+Kuwait - Zain  - epdg.epc.mnc002.mcc419.pub.3gppnetwork.org - 95.66.17.49
+Luxembourg - Millicom Tango GSM  - epdg.epc.mnc077.mcc270.pub.3gppnetwork.org - 212.66.71.12
+Luxembourg - P+T/Post LUXGSM  - epdg.epc.mnc001.mcc270.pub.3gppnetwork.org - 78.141.178.58
+Luxembourg - Orange/VOXmobile S.A.  - epdg.epc.mnc099.mcc270.pub.3gppnetwork.org - 212.224.253.168
+Malaysia - Digi Telecommunications  - epdg.epc.mnc016.mcc502.pub.3gppnetwork.org - 115.164.17.24
+Malaysia - MTX Utara  - epdg.epc.mnc011.mcc502.pub.3gppnetwork.org - 42.153.28.64
+Malaysia - Webe/Packet One Networks (Malaysia) Sdn Bhd  - epdg.epc.mnc153.mcc502.pub.3gppnetwork.org - 42.153.28.64
+Malaysia - U Mobile  - epdg.epc.mnc018.mcc502.pub.3gppnetwork.org - 123.136.100.128
+Maldives - Ooredo/Wataniya  - epdg.epc.mnc002.mcc472.pub.3gppnetwork.org - 103.50.104.145
+Namibia - MTC  - epdg.epc.mnc001.mcc649.pub.3gppnetwork.org - 41.219.127.84
+Netherlands - KPN Telecom B.V.  - epdg.epc.mnc069.mcc204.pub.3gppnetwork.org - 62.133.126.254
+Netherlands - KPN Telecom B.V.  - epdg.epc.mnc008.mcc204.pub.3gppnetwork.org - 62.133.76.240
+Netherlands - T-Mobile B.V.  - epdg.epc.mnc016.mcc204.pub.3gppnetwork.org - 84.241.236.219
+Netherlands - T-mobile/former Orange  - epdg.epc.mnc020.mcc204.pub.3gppnetwork.org - 84.241.236.219
+Netherlands - Tele2  - epdg.epc.mnc002.mcc204.pub.3gppnetwork.org - 84.241.236.198
+Netherlands - Vodafone Libertel  - epdg.epc.mnc004.mcc204.pub.3gppnetwork.org - 109.39.144.148
+Norway - ICE Nordisk Mobiltelefon AS  - epdg.epc.mnc014.mcc242.pub.3gppnetwork.org - 217.13.9.76
+Norway - Netcom  - epdg.epc.mnc002.mcc242.pub.3gppnetwork.org - 89.9.88.41
+Norway - Network Norway AS  - epdg.epc.mnc005.mcc242.pub.3gppnetwork.org - 89.9.88.41
+Norway - TDC Mobil A/S  - epdg.epc.mnc008.mcc242.pub.3gppnetwork.org - 195.41.220.241
+Norway - Telenor  - epdg.epc.mnc001.mcc242.pub.3gppnetwork.org - 77.16.1.126
+Oman - Oman Mobile/GTO  - epdg.epc.mnc002.mcc422.pub.3gppnetwork.org - 212.72.1.25
+Panama - Cable & W./Mas Movil  - epdg.epc.mnc001.mcc714.pub.3gppnetwork.org - 201.227.226.190
+Peru - Movistar  - epdg.epc.mnc006.mcc716.pub.3gppnetwork.org - 201.230.206.157
+Peru - Nextel  - epdg.epc.mnc017.mcc716.pub.3gppnetwork.org - 186.163.2.194
+Philippines - Smart  - epdg.epc.mnc003.mcc515.pub.3gppnetwork.org - 121.54.55.133
+Poland - Orange/IDEA/Centertel  - epdg.epc.mnc003.mcc260.pub.3gppnetwork.org - 217.116.100.15
+Poland - Play/P4  - epdg.epc.mnc098.mcc260.pub.3gppnetwork.org - 89.108.195.110
+Poland - Play/P4  - epdg.epc.mnc006.mcc260.pub.3gppnetwork.org - 89.108.200.112
+Poland - Polkomtel/Plus  - epdg.epc.mnc001.mcc260.pub.3gppnetwork.org - 37.248.184.80
+Poland - T-Mobile/ERA  - epdg.epc.mnc002.mcc260.pub.3gppnetwork.org - 83.220.97.255
+Portugal - NOS/Optimus  - epdg.epc.mnc003.mcc268.pub.3gppnetwork.org - 212.113.164.233
+Puerto Rico - Puerto Rico Telephone Company Inc. (PRTC)  - epdg.epc.mnc110.mcc330.pub.3gppnetwork.org - 72.50.33.21
+Qatar - Vodafone  - epdg.epc.mnc002.mcc427.pub.3gppnetwork.org - 80.76.164.146
+Romania - Orange  - epdg.epc.mnc010.mcc226.pub.3gppnetwork.org - 109.166.155.232
+Romania - RCS&RDS Digi Mobile  - epdg.epc.mnc005.mcc226.pub.3gppnetwork.org - 82.137.11.252
+Romania - Vodafone  - epdg.epc.mnc001.mcc226.pub.3gppnetwork.org - 46.97.10.152
+Russian Federation - Megafon  - epdg.epc.mnc002.mcc250.pub.3gppnetwork.org - 31.173.34.209
+Russian Federation - MTS  - epdg.epc.mnc001.mcc250.pub.3gppnetwork.org - 213.87.143.150
+Russian Federation - BeeLine/VimpelCom  - epdg.epc.mnc099.mcc250.pub.3gppnetwork.org - 109.197.204.240
+Saudi Arabia - Etihad/Etisalat/Mobily  - epdg.epc.mnc003.mcc420.pub.3gppnetwork.org - 86.51.51.55
+Saudi Arabia - STC/Al Jawal  - epdg.epc.mnc001.mcc420.pub.3gppnetwork.org - 212.215.132.243
+Saudi Arabia - Zain  - epdg.epc.mnc004.mcc420.pub.3gppnetwork.org - 79.170.53.23
+Singapore - Singtel  - epdg.epc.mnc001.mcc525.pub.3gppnetwork.org - 111.65.101.17
+Singapore - Starhub  - epdg.epc.mnc005.mcc525.pub.3gppnetwork.org - 203.116.25.1
+Slovakia - Orange  - epdg.epc.mnc001.mcc231.pub.3gppnetwork.org - 213.151.204.237
+Slovenia - Mobitel  - epdg.epc.mnc041.mcc293.pub.3gppnetwork.org - 213.229.192.67
+South Africa - 8.ta  - epdg.epc.mnc002.mcc655.pub.3gppnetwork.org - 41.147.159.254
+South Africa - Cell C  - epdg.epc.mnc007.mcc655.pub.3gppnetwork.org - 41.50.128.53
+South Africa - MTN  - epdg.epc.mnc010.mcc655.pub.3gppnetwork.org - 41.208.50.113
+South Africa - Vodacom  - epdg.epc.mnc001.mcc655.pub.3gppnetwork.org - 41.1.162.233
+Spain - Movistar  - epdg.epc.mnc007.mcc214.pub.3gppnetwork.org - 213.4.100.145
+Spain - Movistar  - epdg.epc.mnc005.mcc214.pub.3gppnetwork.org - 213.4.100.145
+Spain - Orange  - epdg.epc.mnc003.mcc214.pub.3gppnetwork.org - 92.58.249.252
+Sri Lanka - MTN/Dialog  - epdg.epc.mnc002.mcc413.pub.3gppnetwork.org - 122.255.0.80
+Sudan - ZAIN/Mobitel  - epdg.epc.mnc001.mcc634.pub.3gppnetwork.org - 41.95.254.50
+Sweden - H3G Access AB  - epdg.epc.mnc002.mcc240.pub.3gppnetwork.org - 80.251.192.4
+Sweden - Tele2 Sverige AB  - epdg.epc.mnc007.mcc240.pub.3gppnetwork.org - 90.132.128.59
+Sweden - Telenor (Vodafone)  - epdg.epc.mnc008.mcc240.pub.3gppnetwork.org - 82.183.102.4
+Sweden - Telenor (Vodafone)  - epdg.epc.mnc006.mcc240.pub.3gppnetwork.org - 18.200.61.111
+Sweden - Telia Mobile  - epdg.epc.mnc001.mcc240.pub.3gppnetwork.org - 217.214.144.73
+Switzerland - Salt/Orange  - epdg.epc.mnc003.mcc228.pub.3gppnetwork.org - 213.55.207.51
+Switzerland - Swisscom  - epdg.epc.mnc001.mcc228.pub.3gppnetwork.org - 138.188.106.228
+Switzerland - TDC Sunrise  - epdg.epc.mnc002.mcc228.pub.3gppnetwork.org - 194.230.155.9
+Taiwan - Chunghwa Telecom LDM  - epdg.epc.mnc092.mcc466.pub.3gppnetwork.org - 221.120.23.1
+Taiwan - Far EasTone  - epdg.epc.mnc001.mcc466.pub.3gppnetwork.org - 211.77.241.91
+Taiwan - Taiwan Cellular  - epdg.epc.mnc097.mcc466.pub.3gppnetwork.org - 175.96.62.1
+Thailand - Advanced Wireless Networks/AWN  - epdg.epc.mnc003.mcc520.pub.3gppnetwork.org - 119.31.123.26
+Thailand - Total Access (DTAC)  - epdg.epc.mnc005.mcc520.pub.3gppnetwork.org - 111.84.240.252
+Thailand - True Move/Orange  - epdg.epc.mnc004.mcc520.pub.3gppnetwork.org - 61.91.170.102
+Turkey - AVEA/Aria  - epdg.epc.mnc003.mcc286.pub.3gppnetwork.org - 188.41.241.41
+Turkey - Turkcell  - epdg.epc.mnc001.mcc286.pub.3gppnetwork.org - 188.59.209.1
+Turkey - Vodafone-Telsim  - epdg.epc.mnc002.mcc286.pub.3gppnetwork.org - 217.31.250.158
+Ukraine - Astelit/LIFE  - epdg.epc.mnc006.mcc255.pub.3gppnetwork.org - 212.58.160.223
+United Kingdom - H3G Hutchinson  - epdg.epc.mnc020.mcc234.pub.3gppnetwork.org - 188.31.254.71
+United Kingdom - O2 Ltd.  - epdg.epc.mnc010.mcc234.pub.3gppnetwork.org - 87.194.88.8
+United Kingdom - OnePhone  - epdg.epc.mnc008.mcc234.pub.3gppnetwork.org - 81.128.196.38
+United Kingdom - Everyth. Ev.wh./Orange  - epdg.epc.mnc033.mcc234.pub.3gppnetwork.org - 109.249.190.48
+United Kingdom - Sky UK Limited  - epdg.epc.mnc057.mcc234.pub.3gppnetwork.org - 185.110.178.136
+United Kingdom - Everyth. Ev.wh./T-Mobile  - epdg.epc.mnc030.mcc234.pub.3gppnetwork.org - 109.249.186.72
+United Kingdom - Vodafone  - epdg.epc.mnc015.mcc234.pub.3gppnetwork.org - 88.82.11.208
+United States - Cellular Network Partnership LLC  - epdg.epc.mnc280.mcc312.pub.3gppnetwork.org - 216.176.175.212
+United States - GCI Communication Corp.  - epdg.epc.mnc370.mcc311.pub.3gppnetwork.org - 65.74.4.8
+United States - North Carolina RSA 3 Cellular Tel. Co.  - epdg.epc.mnc130.mcc310.pub.3gppnetwork.org - 162.247.206.24
+United States - Northeast Colorado Cellular Inc.  - epdg.epc.mnc450.mcc310.pub.3gppnetwork.org - 199.47.64.52
+United States - Sprint Spectrum  - epdg.epc.mnc530.mcc312.pub.3gppnetwork.org - 68.31.58.7
+United States - Sprint Spectrum  - epdg.epc.mnc120.mcc310.pub.3gppnetwork.org - 68.31.42.7
+United States - T-Mobile  - epdg.epc.mnc260.mcc310.pub.3gppnetwork.org - 208.54.37.80
+United States - T-Mobile  - epdg.epc.mnc240.mcc310.pub.3gppnetwork.org - 208.54.83.96
+United States - T-Mobile  - epdg.epc.mnc300.mcc310.pub.3gppnetwork.org - 66.94.5.1
+United States - T-Mobile  - epdg.epc.mnc310.mcc310.pub.3gppnetwork.org - 66.94.5.2
+United States - United Wireless Communications Inc.  - epdg.epc.mnc650.mcc311.pub.3gppnetwork.org - 209.203.168.77
+Uruguay - Claro/AM Wireless  - epdg.epc.mnc010.mcc748.pub.3gppnetwork.org - 131.100.108.126
+Uruguay - MOVISTAR  - epdg.epc.mnc007.mcc748.pub.3gppnetwork.org - 186.8.59.128
+Viet Nam - VietnaMobile  - epdg.epc.mnc005.mcc452.pub.3gppnetwork.org - 203.170.27.10
+Viet Nam - Viettel Mobile  - epdg.epc.mnc004.mcc452.pub.3gppnetwork.org - 27.68.226.241
+Viet Nam - Vinaphone  - epdg.epc.mnc002.mcc452.pub.3gppnetwork.org - 113.185.27.24
+195 valid,  1495 invalid,  1690 total
